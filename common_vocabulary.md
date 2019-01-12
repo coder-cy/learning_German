@@ -208,6 +208,41 @@
   - Beispiel 例子，范例
   - Wein 葡萄酒
 
+## L4
+  - Wohnung 住房，住宅
+  - Sache 事情，情况，东西
+  - Hochhaus 高楼大厦
+  - Küche 厨房
+  - Zeichnung 图画，画，图样
+  - Raum 房间
+  - Bad 浴室
+  - Balkon 阳台
+  - Flur 走廊，过道
+  - Regal 架子
+  - Platz 空间
+  - Vase 花瓶
+  - Gegenteil 反面，相反
+  - Toilette 厕所
+  - Traum 梦，梦想
+  - Möbel 家具
+  - Schrank 橱，柜
+  - Möglichkeit 可能性，机会
+  - Spiegel 镜子
+  - Kühlschrank 冰箱
+  - Held 炉灶
+  - Satz 句子
+  - Umzug 搬家
+  - Problem 问题
+  - Glück 幸运，运气
+  - Arme 可怜的人
+  - Rücken 背部
+  - Hilfe 帮助
+  - Lärmen 吵闹，喊叫
+  - Einstellen 安放，安置
+  - Eigentümer 所有者，物主
+  - Fuß 脚
+
+
 #############################################################
 
 # 动词
@@ -281,3 +316,14 @@
   - zwischen 在...之间，在...之中
   - fahren 行驶，乘车，坐车
   - nennen 列举
+
+## L4
+ - kosten 价格为，花费
+ - passen 相配，相称
+ - möchten 想，要，愿
+ - kommentieren 评论，评注
+ - bauen 组合，造
+ - ausprobieren 试验，试用
+ - packen 把...装入，收拾
+ - brauchen 需要
+ - verboten 禁止，不准许
