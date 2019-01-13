@@ -66,6 +66,32 @@
   - zur 去...往...， 到...去
   - sehr 很，非常
 
+## L4
+  - zu 太
+    * ist zu klein
+  - aber 但是
+    * aber ich bin keine Kind
+  - oben 上方
+    * 
+  - weiter 继续
+
+  - mehrere 好些，好几个
+
+  - pro 每个
+
+  - doch 的确是，确实是
+
+  - morgen 明天
+
+  - oft 经常
+
+  - am Anfang 最开始，最初时
+
+  - alles 一切，所有
+
+  - ca. 大概，大约
+
+
 #############################################################
 
 # 形容词
@@ -89,6 +115,37 @@
 ## L3
   - viele 多的，许多
   - mehr 更多的，比...更多
+
+## L4
+  - besonders 特别地，着重地
+  - hell 光亮的，明亮的 - dunkel 黑暗的
+  - groß 大的 - klein 小的
+  - teuer 昂贵的 - billig 便宜的
+  - ziemlich 相当的
+  - ruhig 安静的
+  - lang 长的 - kurz 短的
+  - viel 许多
+  - neu 新的
+  - leise 小声的，低声的
+  - hässlich 难看的，丑陋的 - schön 美丽的
+  - modern 现代的，时髦的
+  - daneben 在旁边
+  - chaotisch 混乱的，乱七八糟的
+  - verschieden 不同的，不一样的
+  - fremd 外国的
+  - fest 稳定的，固定的，不变的
+  - neutral 中性的，中立的
+  - populär 流行的，普及的
+  - weltbekannt 世界闻名的
+
+## L5
+  - halb 一半
+  - Wie viel 多少
+  - um 在...时刻
+  - von （某人）的 （of）
+  - nächster 下一个
+
+
 
 #############################################################
 
@@ -241,8 +298,72 @@
   - Einstellen 安放，安置
   - Eigentümer 所有者，物主
   - Fuß 脚
+  - Beruf 职业
+  - Material 材料，资料，素材
+  - Stunde 课时，一节课，小时
+  - Unterricht 课，课程
+  - Spaß 愉快，高兴，兴趣
+  - Bahnhof 火车站
+  - Kaufhaus 百货商店
+  - Bibliothek 图书馆
+  - Thema 主题
+  - Hand 手
+  - Bekannte 熟人
+  - Firma 公司，企业
+  - Buchstabe 字母
+  - Lösung 答案，解决办法
+  - Ergebnis 结果，成果
+  - Begriff 概念
+  - Teil 部分
+  - Ding 东西，物品
+  - Möbelstück 家具
+  - Märchen 童话
+  - Hafen 港口，码头
+  - Alter 年龄
+  - Sportstudio 健身房
 
+## L5
+  - Termin 约会，约定时间
+  - Verspätung 迟到，延误
+  - Stau 堵车
+  - Montag 星期一
+  - Dienstag 星期二
+  - Mittwoch 星期三
+  - Donnerstag 星期四
+  - Freitag 星期五
+  - Samstag 星期六
+  - Sonntag 星期天
+  - Umgangssprache 口语
+  - Frühstück 早餐
+  - Mittagessen 午饭
+  - Abendessen 晚餐
+  - Mitternacht 半夜
+  - Uhr 表，钟
+  - Schatten 影子，阴影
+  - Ende 结尾，终点
+  - Ausländer 外国人
+  - Amt 部，局，处，所
+  - Visum 签证
+  - Mietvertrag 租赁合同
+  - Praxis 诊所
+  - Autobahn 高速公路
+  - Anruf 电话
+  - Verabredung 约定，约会
+  - Kino 电影院
+  - Zahnarzt 牙医
+  - Ausrede 借口
+  - Wecker 闹钟
+  - Konjugation 变位
+  - Panne 故障
+  - Pünktlichkeit 准时，按时
+  - Suppe 汤
+  - Fest 庆祝活动，庆典
 
+## L5
+  - trennbar 可分开的
+  - kompliziert 复杂的
+  - speziell 特别的
+  - kaputt 损坏的
 #############################################################
 
 # 动词
@@ -327,3 +448,26 @@
  - packen 把...装入，收拾
  - brauchen 需要
  - verboten 禁止，不准许
+ - wissen 知道，了解
+ - gründen 创立，建立
+
+## L5
+  - verabreden 约定
+  - entschuldigen 道歉
+  - anrufen 打电话
+  - aufstehen 起床，起立，站起
+  - gehen 去
+  - ausgehen 外出
+  - erzählen 讲述
+  - vorbereiten 准备，预备
+  - melden 报告，报道
+  - telefonieren 打电话
+  - schwimmen 游泳
+  - bitten 请求，恳求
+  - ablehnen 拒绝，不接受
+  - zustimmen 同意，赞成
+  - warten 等待
+  - vergessen 忘记，遗忘
+  - einkaufen 采购，购买
+  - anfangen 开始，着手
+  - absagen 通知取消
