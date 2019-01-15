@@ -737,6 +737,16 @@ Kai: Nein, ich kann nicht, ich muss zuerst meine Hausaufgaben machen.
 * In den Sommerferien 2012 hatte das Deutschkolleg der Tongji Universität 600 Kursteilnehmer. Sie waren fleißig.
 + Im letzen Jahr hatten die Chinesen ein gutes Leben.
 
+------
+
+* Wann stehst du morgens auf?
+* Holt er die regelmäßigen Verben wieder?
+* Der Lehrer beendet den Unterricht in zwei Stunden.
+* Wann fängt der Film an?
+* Das Konzert findet am Montag statt.
+* WangDali muss der Termin absagen.
+* Sollen ich die Paketkate noch einmal ausfüllen?
+
 
 
 
