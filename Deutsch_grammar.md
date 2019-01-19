@@ -747,6 +747,10 @@ Kai: Nein, ich kann nicht, ich muss zuerst meine Hausaufgaben machen.
 * WangDali muss der Termin absagen.
 * Sollen ich die Paketkate noch einmal ausfüllen?
 
+------
+
+* Kannst du mir helfen?
+* Verstehst du das nicht? Warum fragst du mich nicht?
 
 
 
